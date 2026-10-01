@@ -2,6 +2,13 @@
 
 TokenTamer is a high-performance, B2B on-premise AI proxy gateway engineered for enterprise environments. It provides fine-grained control over LLM traffic, automated cost optimization, vector-assisted semantic guardrails, and self-improving feedback loops.
 
+## 📸 System Overview & Telemetry
+
+<p align="center">
+  <img src="TT1.png" alt="TokenTamer Architecture & Gateway View" width="49%" />
+  <img src="TT2.png" alt="TokenTamer Routing & Metrics View" width="49%" />
+</p>
+
 ## 🚀 Enterprise Architecture & Core Capabilities
 
 * **Dynamic Cost & Price Control**: Automatically evaluates incoming payloads, estimates token consumption, and optimizes routing across upstream providers to enforce strict budgetary constraints.
